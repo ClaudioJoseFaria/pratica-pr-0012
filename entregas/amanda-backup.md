@@ -1,0 +1,23 @@
+# [Título do Procedimento Técnico — UC 3]
+
+* **Aluno(a):**  Amanda Carolina Barbosa Silva
+* **Tema:** Clonagem de Disco com Clonezilla
+
+## 1. Objetivo
+Realizar a clonagem
+
+## 2. Ferramentas e Cuidados Técnicos
+* **Ferramentas / Softwares:** [Liste o que será usado]
+* **Segurança / Boas Práticas:** [Ex.: pulseira ESD, backup prévio, verificação de energia]
+
+## 3. Passo a Passo
+1. Primeiro passo...
+2. Segundo passo...
+   ```bash
+   # Coloque aqui um comando ou caminho, se houver
+   ```
+3. Terceiro passo...
+
+## 4. Como Validar (Teste Final)
+- [ ] Teste 1 para confirmar que deu certo
+- [ ] Teste 2 para confirmar que deu certo
