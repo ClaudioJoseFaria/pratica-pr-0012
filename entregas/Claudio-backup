@@ -1,0 +1,21 @@
+# [Manutenção de computadores]
+
+* **Aluno(a):**[Claudio jose faria]
+* **Tema:** [Backup e Restore]
+
+## 1. Objetivo
+conservar o equipamento,economizar gastos,manter a qualidade do produto,manter os componentes sempre funcionando,estabelecer o bom funcionamento da maquina,evitar trocas de componentes,cabos sem dobras ,tomada perfeita,todos esses e mais alguns tipos de cuidados ,alem de evitar danos,sempre vai ajudar na conservação do equipamento.
+
+## 2. Ferramentas e Cuidados Técnicos
+* **Ferramentas / Softwares:** [clonezilla,gparted]
+* **Segurança / Boas Práticas:** [ pulseira ESD, backup prévio, verificação de energia]
+
+## 3. Passo a Passo
+1. verificação e analise do estado da maquina
+2. limpeza e realização de testes   
+1. criação de um servidor de backup
+1. conexão de maquinas clientes via rede local
+1. restauração e download das maquinas clientes e do backup gerado pelo servidor local
+## 4. Como Validar (Teste Final)
+- inicialização e verificação dos arquivos 
+- analizar os dados e configurações atribuidas a maquina
